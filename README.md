@@ -10,7 +10,7 @@ Email dev task runner
 ### How do I get set up? ###
 
 * Clone this repo to the directory of your choice on your local machine by running the following command from a terminal shell opened to that directory.
-`git clone git@bitbucket.org:mbrannon/emaildev-taskrunner.git`
+`git clone git@github.com:Sharks33/email-dev-taskrunner.git`
 * Once the repo has been cloned add your resources to the src directory.
 * Run the Gulp task of your choice by entering the following prompt from the command line.
 `gulp "task"`
